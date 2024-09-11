@@ -7,8 +7,8 @@
 - 💞️ I’m looking to collaborate on any help I can give
   
 - 📫 How to reach me:
-  LinkedIn: https://www.linkedin.com/in/rodrigocontbr/
-  frontend Mentor: https://www.frontendmentor.io/profile/Cjsrodrigo
+  . LinkedIn: https://www.linkedin.com/in/rodrigocontbr/
+  . frontend Mentor: https://www.frontendmentor.io/profile/Cjsrodrigo
   
 - ⚡ Fun fact: I have a parrot :)
 
